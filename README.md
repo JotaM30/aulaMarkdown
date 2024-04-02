@@ -42,9 +42,11 @@ exemplo de uma empresa
 ![imagem](https://slideplayer.com.br/slide/1669103/6/images/16/DIAGRAMA+DE+CASO+DE+USO+Casos+de+Uso+-+DOCUMENTA%C3%87%C3%83O%3A.jpg)
 Um caso de uso representa uma unidade discreta da interação entre um usuário (humano ou máquina) e o sistema.
 
-Ele | Essentials
+Elemento | Essentials
 ----|-----------|
-
+Ator|Representa uma pessoa (ou um grupo de pessoas) que desempenha um papel ao interagir com o software. 
+Caso de uso| Representa uma funcionalidade que atende a um ou mais requisitos do cliente. Como nome, sugere-se usar um verbo no infinitivo com um complemento.
+Relacionamento| Um ator interage com um caso de uso e isso é representado por um relacionamento. Os casos de uso também podem se relacionar entre si.
 #### LINKS DE SEU INTERESSE
 
 [clique aqui para saber engenharia de requisitos](https://www.devmedia.com.br/introducao-a-engenharia-de-requisitos/8034)
