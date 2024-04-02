@@ -42,7 +42,11 @@ exemplo de uma empresa
 ![imagem](https://slideplayer.com.br/slide/1669103/6/images/16/DIAGRAMA+DE+CASO+DE+USO+Casos+de+Uso+-+DOCUMENTA%C3%87%C3%83O%3A.jpg)
 Um caso de uso representa uma unidade discreta da interação entre um usuário (humano ou máquina) e o sistema.
 
+Ele | Essentials
+----|-----------|
+
 #### LINKS DE SEU INTERESSE
+
 [clique aqui para saber engenharia de requisitos](https://www.devmedia.com.br/introducao-a-engenharia-de-requisitos/8034)
 
 [clique aqui para saber sobre caso de uso](https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml)
